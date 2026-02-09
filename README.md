@@ -18,7 +18,7 @@
 ---
 
 ## 👋 About Me
-Hi! I’m **strotaw (Akmal Zahir)** — passionate about building fun apps and experimenting with interactive projects and games. I like exploring logic, visuals, and creative ideas through code. :contentReference[oaicite:1]{index=1}
+Hi! I’m **strotaw (Akmal Zahir)** — passionate about building fun apps and experimenting with interactive projects and games. I like exploring logic, visuals, and creative ideas through code.
 
 ---
 
@@ -40,35 +40,33 @@ Hi! I’m **strotaw (Akmal Zahir)** — passionate about building fun apps and e
 Here are some repositories worth checking out:
 
 ### 🎯 Games & Interactive Apps
-- 🎲 **secret_word** – A game project with visuals, assets & UI interactions. :contentReference[oaicite:2]{index=2}  
+- 🎲 **secret_word** – A game project with visuals, assets & UI interactions.
   🔗 https://github.com/strotaw/secret_word
 
-- 🐍 **SnakeNoun** – Forked snake-style project (assets + visuals). :contentReference[oaicite:3]{index=3}  
+- 🐍 **SnakeNoun** – Forked snake-style project (assets + visuals).
   🔗 https://github.com/strotaw/SnakeNoun
 
 ### 🔧 Utility / Others
-- 🔤 **synonym-swap** – Creative visual/logic repo with assets. :contentReference[oaicite:4]{index=4}  
+- 🔤 **synonym-swap** – Creative visual/logic repo with assets.
   🔗 https://github.com/strotaw/synonym-swap
 
-- 🧠 **guess_the_name** – Flutter starter project. :contentReference[oaicite:5]{index=5}  
+- 🧠 **guess_the_name** – Flutter starter project. 
   🔗 https://github.com/strotaw/guess_the_name
 
-- 🗂️ **timeliner** – Flutter starter boilerplate. :contentReference[oaicite:6]{index=6}  
+- 🗂️ **timeliner** – Flutter starter boilerplate.
   🔗 https://github.com/strotaw/timeliner
 
-- 📦 **itho-baru** – Web-based Next.js project. :contentReference[oaicite:7]{index=7}  
+- 📦 **itho-baru** – Web-based Next.js project.
   🔗 https://github.com/strotaw/itho-baru
 
-- 📡 **itho_backend** – Backend starter project. :contentReference[oaicite:8]{index=8}  
+- 📡 **itho_backend** – Backend starter project.
   🔗 https://github.com/strotaw/itho_backend
 
 ---
 
-## 🐍 Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/strotaw/strotaw/output/snake-dark.svg" />
 </p>
-
 
 ---
 
