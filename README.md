@@ -1,86 +1,158 @@
-<!-- ===== HEADER / BANNER ===== -->
+<!-- ===== BANNER ===== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/strotaw/strotaw/main/banner.png" width="100%" />
 </p>
 
-
+<!-- ===== TYPING HEADER (INTERACTIVE) ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com
-  ?font=Fira+Code
-  &pause=1200
-  &color=58A6FF
-  &center=true
-  &vCenter=true
-  &width=600
-  &lines=Hi,+I'm+strotaw!;Developer+of+Fun+Apps+%26+Games;Always+Exploring+New+Ideas" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+strotaw!;Game+Developer+%26+Creative+Coder;Interactive+Apps+%7C+Games+%7C+Experiments;Always+Exploring+New+Ideas" />
 </p>
 
 ---
 
 ## 👋 About Me
-Hi! I’m **strotaw (Akmal Zahir)** — passionate about building fun apps and experimenting with interactive projects and games. I like exploring logic, visuals, and creative ideas through code.
+Hi! I’m **strotaw (Akmal Zahir)** —  
+I enjoy building **interactive apps, small games, and creative coding experiments**.  
+I focus on **logic, visuals, and user interaction** rather than just static apps.
 
 ---
 
 ## 🧠 What I Do
-- 🕹️ Build small games & interactive apps  
-- 📱 Mobile / Flutter / UI prototyping  
-- 📦 Experiment with creative logic and utilities  
-- 🎮 Always trying new coding ideas!
+- 🎮 Build **small games & interactive experiences**
+- 📱 Mobile / **Flutter UI prototyping**
+- 🧩 Creative logic & experimental ideas
+- 🛠️ Learning by building & iterating
 
 ---
 
 ## 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css,git" />
+
+### 👨‍💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,js,php,python,cs,html,css,ts" />
+</p>
+
+---
+
+### 🧩 Frameworks & Game Engines
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,laravel,dotnet,adonis,nextjs,unity,firebase" />
+  <img src="https://raw.githubusercontent.com/strotaw/strotaw/main/gdevelop.jpg" height="48" alt="GDevelop" />
+</p>
+
+---
+
+### 🛠 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman,androidstudio,ubuntu" />
+</p>
+
+---
+
+### 🧠 Concepts & Focus
+<p align="center">
+  <img src="https://img.shields.io/badge/Game%20Logic-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Enemy%20AI-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gameplay%20Systems-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Interactive%20UI-000?style=for-the-badge" />
+</p>
+
 
 ---
 
 ## 🚀 Featured Projects
 
-Here are some repositories worth checking out:
-
 ### 🎯 Games & Interactive Apps
-- 🎲 **secret_word** – A game project with visuals, assets & UI interactions.
-  🔗 https://github.com/strotaw/secret_word
+<details>
+<summary><b>🎲 secret_word</b> — game with visuals & UI interactions</summary>
 
-- 🐍 **SnakeNoun** – Forked snake-style project (assets + visuals).
-  🔗 https://github.com/strotaw/SnakeNoun
+- Focus on interaction & visuals  
+- Asset-driven UI  
+🔗 https://github.com/strotaw/secret_word
 
-### 🔧 Utility / Others
-- 🔤 **synonym-swap** – Creative visual/logic repo with assets.
-  🔗 https://github.com/strotaw/synonym-swap
-
-- 🧠 **guess_the_name** – Flutter starter project. 
-  🔗 https://github.com/strotaw/guess_the_name
-
-- 🗂️ **timeliner** – Flutter starter boilerplate.
-  🔗 https://github.com/strotaw/timeliner
-
-- 📦 **itho-baru** – Web-based Next.js project.
-  🔗 https://github.com/strotaw/itho-baru
-
-- 📡 **itho_backend** – Backend starter project.
-  🔗 https://github.com/strotaw/itho_backend
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/strotaw/strotaw/output/snake-dark.svg" />
-</p>
-
----
+</details>
 
 <details>
-<summary>🎮 Fun Projects / Ideas (click to expand)</summary>
+<summary><b>🐍 SnakeNoun</b> — snake-style project (fork)</summary>
 
-- Experimental UI / asset experiments  
-- Prototypes for app interactions  
-- Learning different frameworks  
+- Visual & asset exploration  
+- Gameplay experiment  
+🔗 https://github.com/strotaw/SnakeNoun
 
 </details>
 
 ---
 
+### 🔧 Utility / Others
+<details>
+<summary><b>🔤 synonym-swap</b> — creative visual / logic repo</summary>
+
+- Word manipulation experiment  
+- Logic-focused  
+🔗 https://github.com/strotaw/synonym-swap
+
+</details>
+
+<details>
+<summary><b>🧠 guess_the_name</b> — Flutter starter project</summary>
+
+- Flutter structure practice  
+🔗 https://github.com/strotaw/guess_the_name
+
+</details>
+
+<details>
+<summary><b>🗂️ timeliner</b> — Flutter boilerplate</summary>
+
+- App skeleton & layout  
+🔗 https://github.com/strotaw/timeliner
+
+</details>
+
+<details>
+<summary><b>📦 itho-baru</b> — Next.js web project</summary>
+
+🔗 https://github.com/strotaw/itho-baru
+
+</details>
+
+<details>
+<summary><b>📡 itho_backend</b> — backend project</summary>
+
+🔗 https://github.com/strotaw/itho_backend
+
+</details>
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/strotaw/strotaw/output/snake-dark.svg" />
+</p>
+---
+
+<details>
+<summary>🎮 Fun Facts (click)</summary>
+
+- I enjoy **interactive logic** more than static layouts  
+- I like experimenting with small ideas  
+- I prefer learning by building  
+
+</details>
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=strotaw" />
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=strotaw&style=flat" />
+</p>
+
+---
+
 ## 📫 Contact
-- 🐦 Twitter / Social: https://instagram.com/@s.trotaw :contentReference[oaicite:9]{index=9}  
-- 📭 Email: akmalzahir931@gmail.com 
+- 📸 Instagram: https://instagram.com/s.trotaw  
+- 📭 Email: akmalzahir931@gmail.com
