@@ -62,9 +62,14 @@ Here are some repositories worth checking out:
 - 📡 **itho_backend** – Backend starter project. :contentReference[oaicite:8]{index=8}  
   🔗 https://github.com/strotaw/itho_backend
 
-
 ---
 
+## 🐍 Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/strotaw/strotaw/output/snake-dark.svg" />
+</p>
+
+---
 
 <details>
 <summary>🎮 Fun Projects / Ideas (click to expand)</summary>
