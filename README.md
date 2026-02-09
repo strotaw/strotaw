@@ -1,7 +1,8 @@
 <!-- ===== HEADER / BANNER ===== -->
 <p align="center">
-  <img src="BANNER_IMAGE_URL_HERE" alt="strotaw GitHub Banner" />
+  <img src="https://raw.githubusercontent.com/strotaw/strotaw/main/banner.png" width="100%" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com
@@ -61,26 +62,9 @@ Here are some repositories worth checking out:
 - 📡 **itho_backend** – Backend starter project. :contentReference[oaicite:8]{index=8}  
   🔗 https://github.com/strotaw/itho_backend
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=strotaw&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strotaw&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=strotaw&theme=darkhub&row=1&no-frame=true" />
-</p>
-
----
 
 <details>
 <summary>🎮 Fun Projects / Ideas (click to expand)</summary>
