@@ -52,7 +52,7 @@ I focus on **logic, visuals, and user interaction** rather than just static apps
 ### 🧠 Concepts & Focus
 <p align="center">
   <img src="https://img.shields.io/badge/Game%20Logic-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Enemy%20AI-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend%20Development-000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Gameplay%20Systems-000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Interactive%20UI-000?style=for-the-badge" />
 </p>
