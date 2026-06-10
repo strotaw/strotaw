@@ -29,14 +29,14 @@ I focus on **logic, visuals, and user interaction** rather than just static apps
 
 ### 👨‍💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,js,php,python,cs,html,css,ts" />
+  <img src="https://skillicons.dev/icons?i=dart,js,php,python,cs,html,css,ts,lua" />
 </p>
 
 ---
 
 ### 🧩 Frameworks & Game Engines
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,laravel,dotnet,adonis,nextjs,unity,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,laravel,dotnet,adonis,nextjs,unity,firebase,defold" />
   <img src="https://skills.syvixor.com/api/icons?i=gdevelop" />
 </p>
 
