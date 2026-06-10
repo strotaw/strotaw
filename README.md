@@ -36,8 +36,9 @@ I focus on **logic, visuals, and user interaction** rather than just static apps
 
 ### 🧩 Frameworks & Game Engines
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,laravel,dotnet,adonis,nextjs,unity,firebase,defold" />
+  <img src="https://skillicons.dev/icons?i=flutter,laravel,dotnet,adonis,nextjs,unity,firebase" />
   <img src="https://skills.syvixor.com/api/icons?i=gdevelop" />
+  <img src="https://skills.syvixor.com/api/icons?i=defold" />
 </p>
 
 ---
